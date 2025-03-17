@@ -11,7 +11,7 @@ FFT_Cryptography/
 │── README.md      # Project documentation
 ```
 
-## **⚙️ How It Works**
+## ** How It Works**
 1. **Encryption (Sender)**:
    - Converts the message to a **numerical signal (ASCII values)**.
    - Applies **FFT** to transform it into the frequency domain.
@@ -23,7 +23,7 @@ FFT_Cryptography/
    - Applies **Inverse FFT (IFFT)** to reconstruct the original message.
    - Prints the decrypted message.
 
-## **🚀 Installation & Setup**
+## ** Installation & Setup**
 ### **1️⃣ Install Python**
 Ensure **Python 3.x** is installed. Check with:
 ```bash
@@ -52,7 +52,7 @@ Enter a message to encrypt and send.
 ### **5️⃣ Check the Receiver Output**
 After receiving the encrypted message, the receiver will **decrypt and display the original message**.
 
-## **📌 Example Output**
+## **Example Output**
 ### **Sender (encryptor.py)**
 ```
 FFT-Based Cryptography
