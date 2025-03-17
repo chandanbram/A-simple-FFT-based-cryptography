@@ -39,13 +39,13 @@ pip install numpy
 ### **3️⃣ Run the Receiver (Decrypter)**
 Start the **decryption server** (must be running before the sender):
 ```bash
-python decrypter.py
+python3 decrypter.py
 ```
 
 ### **4️⃣ Run the Sender (Encryptor)**
 Open another terminal and run:
 ```bash
-python encryptor.py
+python3 encryptor.py
 ```
 Enter a message to encrypt and send.
 
