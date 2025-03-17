@@ -1,6 +1,6 @@
 # **FFT-Based Cryptography: Secure Data Transmission Using Socket Programming**
 
-## *Overview
+## Overview
 This project implements **secure data encryption and decryption** using the **Fast Fourier Transform (FFT)**. Messages are transformed into the frequency domain, encrypted, sent over a network, and decrypted using the **Inverse FFT (IFFT)**.
 
 ## **📂 Project Structure**
